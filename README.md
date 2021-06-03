@@ -1,14 +1,13 @@
 # Ideas
 
 
-```fix
-Hospedagem: 
 
-ShareX:
+`Hospedagem:` Não realizado
 
-Login com email e senha
+`ShareX:` Não realizado
 
-Capcha:
+`Login com email e senha:` Não realizado
 
-Ads:
-```
+`Captcha:` Não realizado
+
+`Ads:` Não realizado
